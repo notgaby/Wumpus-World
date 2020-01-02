@@ -1,4 +1,5 @@
 //Gaby Co P2 
+//This file was provided to my class. 
 
 import java.awt.*;
 import javax.swing.*;
